@@ -3,7 +3,7 @@ media_folder: static/images
 public_folder: /images
 backend:
   name: github
-  branch: master
+  branch: main
   repo: enoviti/lolcode-docs 
   open_authoring: true
 collections:
