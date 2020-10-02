@@ -2,7 +2,6 @@
 title: Functions
 weight: 10
 ---
-
 ### Definition
 
 A function is demarked with the opening keyword `HOW IZ I` and the closing keyword `IF U SAY SO`. The syntax is as follows:
@@ -25,7 +24,7 @@ Return from the function is accomplished in one of the following ways:
 * `GTFO` returns with no value (NOOB).
 * in the absence of any explicit break, when the end of the code block is reached (`IF U SAY SO`), the value in `IT` is returned.
 
-### Calling
+### Calling Again
 
 A function of given arity is called with:
 
