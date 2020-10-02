@@ -24,7 +24,7 @@ Return from the function is accomplished in one of the following ways:
 * `GTFO` returns with no value (NOOB).
 * in the absence of any explicit break, when the end of the code block is reached (`IF U SAY SO`), the value in `IT` is returned.
 
-### Calling Again
+### Calling Again!
 
 A function of given arity is called with:
 
